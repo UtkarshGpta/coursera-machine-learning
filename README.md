@@ -1,2 +1,2 @@
 # coursera-machine-learning
-Completed assignments of Coursera Machine Learning Course by Andrew-ng.
+Complete weekly assignment solutions of Machine Learning Course by Andrew Ng on Coursera.
